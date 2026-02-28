@@ -1,7 +1,5 @@
 # OGMA
 
-[Sourced from https://github.com/nasa/ogma](https://github.com/nasa/ogma)
-
 Ogma is a tool to facilitate the integration of safe runtime monitors into
 other systems. Ogma extends
 [Copilot](https://github.com/Copilot-Language/copilot), a high-level runtime
@@ -25,18 +23,6 @@ verification framework that generates hard real-time C99 code.
   DOT/Graphviz, mermaid).
 
 - Generating the glue code necessary to work with C structs in Copilot.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nasa/ogma/gh-pages/images/simulator.gif" alt="Monitoring within simulation video">
-  <br />
-  <i>Integration of monitors into larger applications (e.g., simulators).</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nasa/ogma/gh-pages/images/ros.gif" alt="Monitoring within ROS simulation video">
-  <br />
-  <i>Integration of monitors into robotics applications.</i>
-</p>
 
 ## Table of Contents
 
