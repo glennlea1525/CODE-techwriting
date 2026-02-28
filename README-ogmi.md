@@ -1,1 +1,1 @@
-Class-3/NASA-ogma-readme.md
+class3/README.md
