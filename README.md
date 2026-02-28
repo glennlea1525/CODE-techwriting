@@ -1,4 +1,4 @@
-# CODE-techwriting
+# README
 
 Repository for CODE documentation used in GitBook
 

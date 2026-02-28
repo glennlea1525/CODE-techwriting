@@ -1,1 +1,0 @@
-class3/README.md
