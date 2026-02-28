@@ -1,5 +1,7 @@
 # OGMA
 
+[Sourced from https://github.com/nasa/ogma](https://github.com/nasa/ogma)
+
 Ogma is a tool to facilitate the integration of safe runtime monitors into
 other systems. Ogma extends
 [Copilot](https://github.com/Copilot-Language/copilot), a high-level runtime
