@@ -6,7 +6,7 @@ Repository for CODE documentation used in GitBook
 
 Three README examples are provided here.
 
-* [README file from NASA ogma project](class3/ogma-README.md)
+* [README file from NASA ogma project](class3/ogma-readme.md)
 * [Contributing Guides - A Template](class3/contributing-guides-a-template.md)
 * [README Checklist](class3/checklist-readme.md)
 
