@@ -2,6 +2,6 @@
 
 * [README](README.md)
 * [README examples](class3/README.md)
-  * [ogma-README](class3/ogma-README.md)
+  * [ogma-README](class3/ogma-readme.md)
   * [Contributing Guides: A Template](class3/contributing-guides-a-template.md)
   * [checklist README](class3/checklist-readme.md)
