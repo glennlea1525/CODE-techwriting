@@ -1,4 +1,6 @@
-# User Guide: ForestGuard v4.2
+# User Guide: ForestGuard v4.2]
+
+This was generated using Gemini AI
 
 **Your Digital Sentinel for the Great Outdoors**
 
