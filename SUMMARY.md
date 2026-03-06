@@ -7,4 +7,4 @@
   * [checklist README](class3/checklist-readme.md)
 
 [ForestGuard documentation](ForestGuard/README.md)
-  * [User Guide: ForestGuard v4.2]{ForestGuard/user-guard-ai.md)
+  * [User Guide: ForestGuard v4.2](ForestGuard/user-guide-ai.md)
