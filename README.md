@@ -1,91 +1,51 @@
-# README
+# README Write the Docs example
 
-Add relevant badges here.
+Source: [Writethedocs.org](http://writethedocs.org)
 
-[Shields.io badges](https://shields.io/badges)
+Your project’s README is often the first time users interact with your project. Therefore, having a solid README is key. Code hosting services automatically render your README into HTML if you provide the proper extension.
 
-## Table of Contents
+Some people even [start a project with a README](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
-* [Introduction](./#introduction)
-* [Main Features](./#main-features)
-* [Prerequisites](./#prerequisites)
-* [Install](./#install)
-* [Usage](./#usage)
-* [README Examples](./#readme-examples)
-* [Maintainers](./#maintainers)
-* [Contributing](./#contributing)
-* [License](./#license)
-
-## Introduction
-
-Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
-
-> Your documentation is complete when someone can use your module without ever having to look at its code. This is very important. This makes it possible for you to separate your module's documented interface from its internal implementation (guts). This is good because it means that you are free to change the module's internals as long as the interface remains the same.
-
-> Remember: the documentation, not the code, defines what a module does.
-
-\~ [Ken Williams, Perl Hackers](http://mathforum.org/ken/perl_modules.html#document)
-
-Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
-
-## Main Features
-
-* List item
-* List item
-* List item
-* List Item
-* List Item
-* Another cool feature
-
-## Prerequisites
-
-Enter list of prerequisites to run the project.
-
-## Install
-
-This module depends upon a knowledge of python or something.
-
-```sh
-$ npm install --global standard-readme-spec
-```
+Below is a simple README template to start with. Name the file README.md to use markdown, or README.rst to use reStructuredText.
 
 ```
+$project
+========
+
+$project solves the problem of where to start with documentation
+by providing a basic explanation of how to do it easily:
+
+    import project
+    # Get your stuff done
+    project.do_stuff()
+
+Features
+--------
+
+- Be awesome
+- Make things faster
+
+Installation
+------------
+
+Install $project by running:
+
+    install project
+
+Contribute
+----------
+
+- Issue Tracker: github.com/$project/$project/issues
+- Source Code: github.com/$project/$project
+
+Support
+-------
+
+Let us know if you have issues.
+See our mailing list at: project@google-groups.com
+
+License
+-------
+
+The project is licensed under the BSD license.
 ```
-
-## Usage
-
-Use this template to get started with your own README file.
-
-```sh
-$ pip install django
-```
-
-And then run the following command to start the project:
-
-```sh
-$ command-name startproject \
-  more stuff
-  more stuff
-```
-
-## README Examples
-
-Three README examples are provided here.
-
-* [README file from NASA ogma project](class3/ogma-readme.md)
-* [Contributing Guides - A Template](class3/contributing-guides-a-template.md)
-* [README Checklist](class3/checklist-readme.md)
-
-By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
-
-## Maintainers
-
-Link to the GitHub profile of the maintainer of this project.
-
-## Contributing
-
-Provide instructions how to contribute to the project.
-
-## License
-
-[MIT](LICENSE/)
