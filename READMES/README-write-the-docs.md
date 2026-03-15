@@ -1,4 +1,4 @@
-# README Write the Docs example
+# README Write the Docs
 
 Source: [Writethedocs.org](http://writethedocs.org)
 
