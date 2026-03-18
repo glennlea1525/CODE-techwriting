@@ -1,2 +1,0 @@
-# ForestGuard Intro to project
-

@@ -1,2 +1,0 @@
-# ForestGuard docs
-
