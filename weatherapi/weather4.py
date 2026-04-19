@@ -39,4 +39,4 @@ def get_current_weather(city: str) -> None:
 
 
 # Try any city!
-get_current_weather("London")
+get_current_weather("Toronto")
